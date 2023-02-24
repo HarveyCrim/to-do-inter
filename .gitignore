@@ -1,3 +1,4 @@
-node_modules/
+
 t1.txt
 package-lock.json
+package.json
